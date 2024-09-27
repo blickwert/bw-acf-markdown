@@ -1,0 +1,26 @@
+.bw-inline-markdown-h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.bw-inline-markdown-h2 {
+    font-size: 1.75em;
+    font-weight: bold;
+}
+
+.bw-inline-markdown-h3 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.bw-inline-markdown-li {
+    margin-left: 20px;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
